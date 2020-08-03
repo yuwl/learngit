@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 add a new merge.
 add codeing utf-8
 add user bin env.
-add a new branch dev.
+add a new branch dev2.
