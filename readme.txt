@@ -8,3 +8,6 @@ add a new merge.
 Learn again.
 Add a new branch dev.
 Add Multiple accouts.
+add codeing utf-8
+add user bin env.
+add a new branch dev2.
